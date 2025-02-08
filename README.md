@@ -78,7 +78,7 @@ Edit the below contents in .env file:
 
 mainnet=`https://mainnet.infura.io/v3/Infura_key`
 
-PRIVATE_KEY=`Wallet Private Key`
+PRIVATE_KEY=`wave island kangaroo bubble near baby crash vessel radio injury session cycle`
 
 API_KEY= `EtherScan API key`
 
